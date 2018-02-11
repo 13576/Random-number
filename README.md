@@ -1,2 +1,0 @@
-# Random-number
-Generate.
